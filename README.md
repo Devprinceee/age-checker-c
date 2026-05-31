@@ -16,10 +16,16 @@ A simple C program that determines whether a user is an adult, a teenager, or a 
 ## How to Run
 
 ### Prerequisites
-You need a GCC compiler installed on your system.
+You need a GCC compiler installed on your system.  
+Ex:- Turmux & linux
 
-### Steps
-1. **Clone the repository** (or copy the code):
+### Steps  
+1. pkg update && pkg upgrade
+2. pkg install git
+3. pkg install clang
+
+   
+5. **Clone the repository** (or copy the code):
    ```bash
    git clone https://github.com/Devprinceee/age-checker-c
    cd age-checker-c
