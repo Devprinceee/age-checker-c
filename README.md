@@ -33,7 +33,7 @@ Ex:- Turmux & linux
 
 2. **Compile the program**:
    ```bash
-   gcc main.c -o age-checker
+   gcc age-checker.c -o age-checker
    ```
 
 3. **Run the executable**:
